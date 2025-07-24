@@ -1100,7 +1100,7 @@ const PaymentScreen: React.FC<PaymentScreenProps> = ({
 
         {/* Footer */}
         <div className="text-center text-xs text-gray-500 mt-8">
-          ©2025 Varsity Tutors - A Nerdy Company. All rights reserved.
+          ©2025 Bhatia Tutors - A QuantiEdge Company. All rights reserved.
         </div>
         
         <div className="flex justify-center space-x-4 text-xs text-gray-500 mt-2">
