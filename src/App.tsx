@@ -16,7 +16,7 @@ function App() {
   const handleOnboardingComplete = () => {
     setShowOnboarding(false);
     // Here you would typically redirect to a dashboard or next step
-    alert('Onboarding complete! Welcome to Varsity Tutors!');
+    alert('Onboarding complete! Welcome to Bhatia Tutors!');
   };
 
   if (showOnboarding) {
