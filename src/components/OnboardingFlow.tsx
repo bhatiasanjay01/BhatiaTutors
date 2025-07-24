@@ -111,7 +111,7 @@ const OnboardingFlow: React.FC<OnboardingFlowProps> = ({ onComplete }) => {
         { id: 'not-sure', label: 'Not sure' }
       ],
       testimonial: {
-        text: 'I went from really struggling in my accounting course to getting an A! Couldn\'t have done it without Varsity Tutors.',
+        text: 'I went from really struggling in my accounting course to getting an A! Couldn\'t have done it without Bhatia Tutors.',
         author: 'Samantha, Student'
       }
     },
