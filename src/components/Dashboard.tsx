@@ -136,7 +136,7 @@ const Dashboard: React.FC<DashboardProps> = ({ userProfile, onBackToHome }) => {
                 <div className="w-8 h-8 bg-indigo-600 rounded-full flex items-center justify-center">
                   <span className="text-white font-bold text-lg">V</span>
                 </div>
-                <span className="ml-2 text-xl font-bold text-gray-900">Varsity Tutors</span>
+                <span className="ml-2 text-xl font-bold text-gray-900">Bhatia Tutors</span>
               </div>
             </div>
 
